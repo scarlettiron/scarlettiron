@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Scarlett Scott
+# Scarlett
 
 **`Full Stack Engineer`**
 
