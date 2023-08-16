@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 **`Full Stack Engineer`**
 
+[linkedin]: https://www.linkedin.com/in/scarlett-a-scott-9980a5bb
 
 ### 🧰 Languages , Tools and Frameworks
 
