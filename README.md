@@ -90,6 +90,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
 
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img  align="left" alt="Npm" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
           
 
  #
@@ -105,6 +111,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original
 <p>Open Cv</p>
 <p>AWS SDK</p>
 <p>Agora</p>
+<>Pip / Pipenv </p>
 <p>API Development</p>
 
 
