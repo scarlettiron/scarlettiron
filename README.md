@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
 
-<img align="left" alt="Django" width="30px" style="padding-right:10px;background-color:white; border-radius:50px;"
+<img align="left" alt="Django" width="30px" style="padding-right:10px;background-color:#fff; border-radius:50px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
           
           
