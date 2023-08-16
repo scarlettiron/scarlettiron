@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 **`Full Stack Engineer`**
 
 <a href='https://www.linkedin.com/in/scarlett-a-scott-9980a5bb'>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          <img align="left" alt="Python" width="30px" style="padding-right:10px;" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>        
 
 ### 🧰 Languages , Tools and Frameworks
