@@ -77,7 +77,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
  #
  #
           
-**`Skills and Knowledge`**
+## Skills and Knowledge
 
 <div style="background:#fff; border-radius:50px;">
 <img align="left" alt="socket i o" width="30px" style="padding-right:10px;"
