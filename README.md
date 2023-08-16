@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 **`Full Stack Engineer`**
 
-[website]: https://www.linkedin.com/in/scarlett-a-scott-9980a5bb
+<a href='https://www.linkedin.com/in/scarlett-a-scott-9980a5bb'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>        
 
 ### 🧰 Languages , Tools and Frameworks
 
