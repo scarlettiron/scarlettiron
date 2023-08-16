@@ -119,3 +119,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmar
 
 <details>
  <summary><h3>👨‍💻 Scarlett's Coding Journey</h3></summary>
+ <p>From the moment I typed my first lines of code, I knew I loved it; bugs and all.</p>
