@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 
@@ -48,6 +53,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
 
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img  align="left" alt="NodeJS" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
 
 #
 #
@@ -78,6 +87,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
  
 <img align="left" alt="Raspberry pi" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
           
 
  #
