@@ -49,10 +49,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-word
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 #
+#
 
 ## Tools
-
-#
 
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
@@ -76,10 +75,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
  #
+ #
           
 **`Skills and Knowledge`**
-
-#
 
 <div style="background:#fff; border-radius:50px;">
 <img align="left" alt="socket i o" width="30px" style="padding-right:10px;"
