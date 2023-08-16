@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #
 
-##Frameworks
+## Frameworks
 
 #
 
@@ -51,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-word
 
 #
 
-**`Tools`**
+## Tools
 
 #
 
