@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Django" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
-<div style="background-color:#fff; border-radius:50px;">
+<div style="background:#fff; border-radius:50px;">
 <img align="left" alt="socket i o" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 </div>
