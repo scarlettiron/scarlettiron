@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #
 
-** `Frameworks `**
+**`Frameworks`**
 
 #
 
@@ -52,6 +52,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-word
 #
 
 **`Tools`**
+
+#
+
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
 
@@ -75,8 +78,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
 
  #
           
-
 **`Skills and Knowledge`**
+
+#
+
 <div style="background:#fff; border-radius:50px;">
 <img align="left" alt="socket i o" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
