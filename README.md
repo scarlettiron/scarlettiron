@@ -111,9 +111,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmar
 <p>Open Cv</p>
 <p>AWS SDK</p>
 <p>Agora</p>
-<>Pip / Pipenv </p>
+<p>Pip / Pipenv </p>
 <p>API Development</p>
 
-
-
 #
+#
+
+<details>
+ <summary><h3>👨‍💻 Scarlett's Coding Journey</h3></summary>
