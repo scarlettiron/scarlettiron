@@ -24,6 +24,9 @@ Here are some ideas to get you started:
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>        
 
+#
+#
+
 ### 🧰 Languages , Tools and Frameworks
 
 ## Languages 
