@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
+#
+
 ** `Frameworks `**
 
 <img align="left" alt="Django" width="30px" style="padding-right:10px;"
@@ -44,6 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-word
 
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+#
 
 **`Tools`**
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;"
@@ -66,6 +70,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
 
  <img align="left" alt="Windows" width="30px" style="padding-right:10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+ #
           
 
 **`Skills and Knowledge`**
